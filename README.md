@@ -1,3 +1,3 @@
-# library Management
-It is a library management application
-IT is done using Python and mysql
+# library Management Application
+
+It is developed using Python and mysql
