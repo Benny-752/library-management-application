@@ -22,7 +22,7 @@ The Library Management System is a comprehensive software solution designed to h
 - User-friendly interface for both library staff and members.
 
 ## Screenshots
-![Screenshot 1](/images/screenshot1.png)
+![Screenshot 1](/home.png)
 
 *Caption for Screenshot 1.*
 
