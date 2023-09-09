@@ -12,7 +12,7 @@
 - [License](#license)
 
 ## About
-The Library Management System is a comprehensive software solution designed to help libraries efficiently manage their resources. This web-based application streamlines tasks like book cataloging, user management, borrowing, and reporting, making library operations more efficient.
+The Library Management System is a comprehensive application designed to help libraries efficiently manage their resources. This application streamlines tasks like book cataloging, user management, borrowing, and reporting, making library operations more efficient.
 
 ## Features
 - User authentication and role-based access control (Admin, Librarian, Member).
