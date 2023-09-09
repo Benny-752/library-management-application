@@ -24,11 +24,15 @@ The Library Management System is a comprehensive software solution designed to h
 ## Screenshots
 ![Screenshot 1](/home.png)
 
-*Caption for Screenshot 1.*
+*Home Page*
 
-![Screenshot 2](/images/screenshot2.png)
+![Screenshot 2](/login.png)
 
-*Caption for Screenshot 2.*
+*Login Page*
+
+![Screenshot 2](/db.png)
+
+*MySql database connected to python*
 
 ## Advantages and Disadvantages
 ### Advantages
