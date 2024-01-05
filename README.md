@@ -7,9 +7,6 @@
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 The Library Management System is a comprehensive application designed to help libraries efficiently manage their resources. This application streamlines tasks like book cataloging, user management, borrowing, and reporting, making library operations more efficient.
